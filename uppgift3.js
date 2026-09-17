@@ -1,3 +1,8 @@
+"use strict";
+/* Programmet visar vilken ålderskategori personen tillhör.
+ Av Julia Anderberg, 2026 */
+
+// Villkor för åldrar 
 let age = 10;
 
 if (age < 18) {
@@ -9,6 +14,6 @@ else if (age < 65) {
 }
 
 else {
-    console.log("Pensionär")
+    console.log("Pensionär");
 }
 
