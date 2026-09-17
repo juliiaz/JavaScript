@@ -1,4 +1,4 @@
-let age = 55;
+let age = 10;
 
 if (age < 18) {
     console.log("Barn");
