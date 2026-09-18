@@ -13,5 +13,6 @@ const maträtter = ["Bolognese", "Tacos", "Paella", "Falafel", "Biryani", "Sushi
 maträtter.push("Ramen");
 
 maträtter.shift();
-    
+
+// Skriver ut ändrad array    
     console.log(maträtter);

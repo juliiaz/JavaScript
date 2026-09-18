@@ -9,11 +9,12 @@ const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 function sumNumbers(numbers) {
     let sum = 0;
 
+// Loopar igenom talen i arrayen
     for (let i = 0; i < numbers.length; i ++) { 
-
     sum = sum + numbers[i];
     } 
 
+// Returnerar summan
     return sum;
 }
 
